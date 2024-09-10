@@ -1,5 +1,4 @@
-## Hi there 👋
-
+My name is Heeman, and I am a novice developer primarily using GitHub to track and store side projects, hoping to expand on them / work towards projects on a much larger scale
 <!--
 **hmani3/hmani3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
