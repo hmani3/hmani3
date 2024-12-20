@@ -1,7 +1,7 @@
 Hi! I'm Heeman, currently working primarily on programs in JS, Python, and Ruby. For any inquires or discussions, feel free to reach out at any time. 
 
 - 🔭 Currently working on developing 'mindfully', a discord bot written in ruby focused on providing mental health updates and support
--     Working on a web app designed to provide people with a way to connect on the McMaster Campus
+- 🔭 Working on a web app designed to provide people with a way to connect on the McMaster Campus
 
 <!--
 **hmani3/hmani3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
