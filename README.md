@@ -1,6 +1,6 @@
-Hi! I'm Heeman, currently working primarily on programs in JS, Python, and Ruby. For any inquires or discussions, feel free to reach out at any time. 
+Hi! I'm Heeman, currently working primarily on web apps and machine learning models. For any inquires or discussions, feel free to reach out at any time. 
 
-- 🔭 Currently working on developing 'mindfully', a discord bot written in ruby focused on providing mental health updates and support
+- 🔭 Currently working on developing a news aggregator that scrapes websites using bs4 and requests
 - 🔭 Working on a web app designed to provide people with a way to connect with people nearby
 - 🔭 Working on a very simple GAN model using my knowledge of nature language processing, optimized to be trained on CPU 
 <!--
