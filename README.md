@@ -1,9 +1,3 @@
-Hi! I'm Heeman, currently working primarily on web apps and machine learning models. For any inquires or discussions, feel free to reach out at any time. 
-
-- 🔭 Currently working on developing a news aggregator that scrapes websites using bs4 and requests
-- 🔭 Working on a web app designed to provide people with a way to connect with people nearby
-- 🔭 Working on a very simple GAN model using my knowledge of nature language processing, optimized to be trained on CPU
-
 * Note: Most of my repos are privated, if you are interested please reach out to me via email, heemanjiaz@gmail.com
 <!--
 **hmani3/hmani3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
